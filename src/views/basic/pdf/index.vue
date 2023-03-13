@@ -3,8 +3,10 @@ import VuePdfEmbed from 'vue-pdf-embed'
 import { createLoadingTask } from 'vue3-pdfjs/esm'
 
 const loading = ref(true)
-const BaseUrl = import.meta.env.VITE_PDF_URL as string
-const file = `${BaseUrl}/pdf/plans.pdf`
+// const BaseUrl = import.meta.env.VITE_PDF_URL as string
+// const file = `${BaseUrl}/pdf/plans.pdf`
+const file = `https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/web/compressed.tracemonkey-pldi-09.pdf`
+
 const state = reactive({
   source: file,
   pageNum: 1,
