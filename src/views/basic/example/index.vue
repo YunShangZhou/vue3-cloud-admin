@@ -14,7 +14,7 @@ import { authorInfo, projectInfo } from '@/common/constants'
   </a-space>
 </template>
 <style lang="scss">
-.app-gitee {
+.app-github {
   position: absolute;
   top: 0;
   right: 0;

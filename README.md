@@ -1,6 +1,6 @@
-预览地址： [http://yunshangzhou.gitee.io/vue3-cloud-admin/](https://yunshangzhou.gitee.io/vue3-cloud-admin/)
+预览地址： [http://yunshangzhou.github.io/vue3-cloud-admin/](https://yunshangzhou.gitee.io/vue3-cloud-admin/)
 
-仓库地址： [https://gitee.com/yunshangzhou/vue3-cloud-admin](https://gitee.com/yunshangzhou/vue3-cloud-admin)
+仓库地址： [https://github.com/yunshangzhou/vue3-cloud-admin](https://gitee.com/yunshangzhou/vue3-cloud-admin)
 
 技术栈为：Vite, Vue3, Arco, Pinia, VueUse, Axios, UnoCSS
 

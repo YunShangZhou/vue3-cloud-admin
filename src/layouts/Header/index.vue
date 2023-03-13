@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Gitee } from '@/common/constants'
+import { Github } from '@/common/constants'
 import Hamburger from '@/components/Hamburger/index.vue'
 import FullScreen from '@/components/FullScreen/index.vue'
 import BreadCrumb from '@/components/BreadCrumb/index.vue'
@@ -52,7 +52,7 @@ const logout = async () => {
               <a-doption>
                 <a-space>
                   <icon-github />
-                  <a-link :href="Gitee" target="_blank" rel="noopener noreferrer">项目地址</a-link>
+                  <a-link :href="Github" target="_blank" rel="noopener noreferrer">项目地址</a-link>
                 </a-space>
               </a-doption>
               <a-divider />
