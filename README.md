@@ -1,4 +1,4 @@
-预览地址： [http://yunshangzhou.github.io/vue3-cloud-admin/](http://admin.ysz-ui.cn)
+预览地址： [http://admin.ysz-ui.cn](http://admin.ysz-ui.cn)
 
 仓库地址： [https://github.com/yunshangzhou/vue3-cloud-admin](https://github.com/yunshangzhou/vue3-cloud-admin)
 
