@@ -41,7 +41,6 @@ export const LoginPath = '/login'
 export const HomePath = '/basic/example'
 // 仓库地址
 export const Github = 'https://github.com/yunshangzhou/vue3-cloud-admin'
-export const Github = 'https://github.com/yunshangzhou/vue3-cloud-admin'
 // Dialog 标题
 export const TitleMap: any = { create: '新增', update: '修改', delete: '删除' }
 // 分页配置
